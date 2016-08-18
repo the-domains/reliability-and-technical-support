@@ -1,0 +1,28 @@
+name: Reliability and Technical Support
+favicon: null
+layout_spectrum: 0.45556448912248015
+typography_spectrum: 0.823382806731388
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6580172886606306
+  lightness: 0.052364612463861704
+  saturation: 0.10392225021496415
+  rhythmicContrast: 0.5541406213305891
+purpose: []
